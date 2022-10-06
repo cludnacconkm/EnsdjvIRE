@@ -4,7 +4,6 @@
 blank_issues_enabled: true
 
 contact_links:
-  - name: Chat on Python Discord
     url: https://discord.gg/RtVdv86PrH
     about: |
       User support, questions, and other lightweight requests can be
